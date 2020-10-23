@@ -1,6 +1,6 @@
 ### Si Jine Roh
 
-Software Engineer (Back-end, API) @Schlumberger
+Software Engineer (Back-end) @Schlumberger
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sijineroh/)](https://www.linkedin.com/in/sijineroh/)
 
